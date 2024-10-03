@@ -1,0 +1,68 @@
+{
+  "firstName": "Олег",
+  "middleName": "Николаевич",
+  "lastName": "Сидоров",
+  "birthDate": "2004-09-10T21:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "23 45",
+    "number": "567890",
+    "issuedAt": "2024-09-10T21:00:00.000Z",
+    "issuer": "ГУ МВД",
+    "issuerСode": "901-234"
+  },
+  "creditHistory": [
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2008-04-01T21:00:00.000Z",
+      "rate": 0.11,
+      "loanSum": 120000,
+      "term": 36,
+      "repaidAt": "2011-04-01T21:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 15,
+      "remainingDebt": 0,
+      "creditId": "p1q2r3s4-9101-1121-3141-516171819202"
+    },
+    {
+      "type": "Кредитная карта",
+      "currency": "RUB",
+      "issuedAt": "2020-06-20T21:00:00.000Z",
+      "rate": 0.23,
+      "loanSum": 60000,
+      "term": 24,
+      "repaidAt": "2022-06-20T21:00:00.000Z",
+      "currentOverdueDebt": 20,
+      "numberOfDaysOnOverdue": 15,
+      "remainingDebt": 0,
+      "creditId": "t1u2v3w4-9101-1121-3141-516171819202"
+    },
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2008-04-01T21:00:00.000Z",
+      "rate": 0.11,
+      "loanSum": 225000,
+      "term": 36,
+      "repaidAt": "2011-04-01T21:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 20,
+      "remainingDebt": 0,
+      "creditId": "p1q2r3s4-9101-1121-3141-516171819202"
+    },
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2008-04-01T21:00:00.000Z",
+      "rate": 0.11,
+      "loanSum": 225000,
+      "term": 36,
+      "repaidAt": "2011-04-01T21:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 17,
+      "remainingDebt": 0,
+      "creditId": "p1q2r3s4-9101-1121-3141-516171819202"
+    }
+  ]
+}

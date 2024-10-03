@@ -1,0 +1,15 @@
+{
+  "firstName": "Мария",
+  "middleName": "Владимировна",
+  "lastName": "Иванова",
+  "birthDate": "2000-09-10T21:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "56 78",
+    "number": "123456",
+    "issuedAt": "2018-09-10T21:00:00.000Z",
+    "issuer": "ГУ МВД",
+    "issuerСode": "789-123"
+  },
+  "creditHistory": []
+}

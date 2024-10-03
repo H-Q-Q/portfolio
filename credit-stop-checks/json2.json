@@ -1,0 +1,42 @@
+{
+  "firstName": "Мария",
+  "middleName": "Викторовна",
+  "lastName": "Смирнова",
+  "birthDate": "1995-04-23T21:00:00.000Z",
+  "citizenship": "РФ",
+  "passport": {
+    "series": "89 01",
+    "number": "789012",
+    "issuedAt": "2018-07-14T21:00:00.000Z",
+    "issuer": "УФМС",
+    "issuerСode": "345-678"
+  },
+  "creditHistory": [
+    {
+      "type": "Кредит наличными",
+      "currency": "RUB",
+      "issuedAt": "2017-03-15T21:00:00.000Z",
+      "rate": 0.15,
+      "loanSum": 80000,
+      "term": 18,
+      "repaidAt": "2018-09-15T21:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 0,
+      "remainingDebt": 0,
+      "creditId": "h1i2j3k4-5678-9101-1121-314151617181"
+    },
+    {
+      "type": "Кредитная карта",
+      "currency": "RUB",
+      "issuedAt": "2019-05-11T21:00:00.000Z",
+      "rate": 0.22,
+      "loanSum": 20000,
+      "term": 6,
+      "repaidAt": "2019-11-11T21:00:00.000Z",
+      "currentOverdueDebt": 0,
+      "numberOfDaysOnOverdue": 1,
+      "remainingDebt": 0,
+      "creditId": "l1m2n3o4-5678-9101-1121-314151617181"
+    }
+  ]
+}
